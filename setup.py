@@ -11,7 +11,7 @@ setup(
     description="A simple package to extend pandas DataFrame functionality for web-based visualization",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/dataframe-quickview",
+    url="https://github.com/gittb/dataframe-quickview",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
