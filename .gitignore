@@ -1,7 +1,48 @@
+# Python files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 *.pyc
+
+# Virtual environments
+venv/
+env/
+*.virtualenv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Other common files
+*.bak
+*.swp
+*.swo
+*.tmp
+*.csv
+*.json
+
+# Ignore dotenv environment variables file
 .env
-.venv
