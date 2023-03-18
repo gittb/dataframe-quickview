@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="dataframe-quickview",
-    version="0.1.0",
+    version="0.1.1",
     author="Ben Gitter",
     author_email="gittebd@gmail.com",
     description="A simple package to extend pandas DataFrame functionality for web-based visualization",
