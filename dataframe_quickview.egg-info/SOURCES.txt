@@ -1,0 +1,7 @@
+setup.py
+dataframe-quickview/__init__.py
+dataframe_quickview.egg-info/PKG-INFO
+dataframe_quickview.egg-info/SOURCES.txt
+dataframe_quickview.egg-info/dependency_links.txt
+dataframe_quickview.egg-info/requires.txt
+dataframe_quickview.egg-info/top_level.txt
