@@ -2,8 +2,6 @@
 
 **DataFrame QuickView** is a Python package that extends pandas DataFrame functionality to easily display and visualize DataFrames in a web-based environment. This package is an experiment in paired programming with GPT-4. It is built using Flask and allows users to view paginated DataFrames and interactively generate histograms based on the selected columns.
 
-![Diagram](diagram.png)
-
 ## Features
 
 ### Phase 1
